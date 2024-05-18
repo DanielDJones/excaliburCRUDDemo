@@ -1,7 +1,7 @@
 # Excalibur CRUD Demo
 This is a example project using the Excalibur framework, using this project and the Excalibur Docs(Coming soon) this project you should have a good idea of how to build a website with the framework.
 
-This project is realeased before the 
+This project is realeased before the framework for feedback form other developers, the template of the framework itself will be released once the docs are compelted to a useful state.
 
 There is no live version of this project as hosting a live, public facing website seems like a bad idea.
 
