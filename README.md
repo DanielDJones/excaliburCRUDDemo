@@ -9,3 +9,7 @@ There is no live version of this project as hosting a live, public facing websit
 
 # Before Using
 This framework is currently a heavy work in progress and is at the stage of technical demo, there are still planned security features missing from the current framework so please do not use on a public facing server without assessing the risks yourself.
+
+# Currently Missing
+- Finishing the update function for a guest book entry
+- Responseive desing in the UI, this is a project focused on the functionality for developers most commonly using desktop / laptops
